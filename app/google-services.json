@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393385728429",
+    "project_id": "sensorratingscale",
+    "storage_bucket": "sensorratingscale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393385728429:android:ebacbbb96ebbf9a8f52924",
+        "android_client_info": {
+          "package_name": "com.example.sensorratingscale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393385728429-f7nib25nd3lgok8gs3q13bft64junkc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD46hqFk95jHdPvlRV1jiwhQXaYbYNU8wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393385728429-f7nib25nd3lgok8gs3q13bft64junkc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

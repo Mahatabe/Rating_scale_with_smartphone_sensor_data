@@ -17,10 +17,7 @@ public class SlideshowViewModel extends ViewModel {
                         "Mr. H M Zabir Haque \n" +
                         "Assistant Professor, \n" + "Department of Computer Science and Engineering, AUST. \n \n" +
                         "The Contributors of this application are: \n" +
-                        "[1]  180104074 \n - Mostafa Mahatabe \n \n" +
-                        "[2]  180104054 \n - Aysha Shiddika  \n \n" +
-                        "[3]  180104043 \n -  Samin Ul ALam \n \n" +
-                        "[4]  180104095 \n -  Md. Salman Chawdhury \n \n"
+                        "[1]  180104074 \n - Mostafa Mahatabe \n \n"
 
                 );
     }
